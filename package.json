@@ -1,11 +1,24 @@
 {
 	"name": "@types/teamspeak",
 	"description": "Typings for the Teamspeak-Library 'teamspeak'.",
-	"version": "0.0.5",
+	"version": "1.0.1",
 	"types": "./index.d.ts",
+	"author": {
+		"name": "Friedmund Schön",
+		"url": "https://github.com/friedmundschoen"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/friedmundschoen/TeamspeakTyping"
+	},
 	"devDependencies": {
 		"@types/node": "^10.5.7",
 		"@types/byline": "^4.2.31"
 	},
+	"bugs": {
+		"email": "derfriedmundschoen@gmail.com",
+		"url": "https://github.com/friedmundschoen/TeamspeakTyping/issues"
+	},
+	"license": "MIT",
 	"dependencies": {}
 }
