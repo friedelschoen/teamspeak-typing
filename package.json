@@ -1,0 +1,11 @@
+{
+	"name": "@types/teamspeak",
+	"description": "Typings for the Teamspeak-Library 'teamspeak'.",
+	"version": "0.0.5",
+	"types": "./index.d.ts",
+	"devDependencies": {
+		"@types/node": "^10.5.7",
+		"@types/byline": "^4.2.31"
+	},
+	"dependencies": {}
+}
